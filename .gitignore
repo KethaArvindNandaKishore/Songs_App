@@ -1,0 +1,10 @@
+client_side/node_modules
+client_side/dist
+client_side/.env
+client_side/.env.local
+client_side/.next
+
+server_side/node_modules
+server_side/dist
+server_side/.env
+server_side/.env.local
